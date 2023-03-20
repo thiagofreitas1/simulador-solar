@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 57.508268 57.508269"
+   version="1.1"
+   id="svg12339"
+   sodipodi:docname="02 - play buttom.svg"
+   width="57.508266"
+   height="57.508266"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata12343">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="771"
+     inkscape:window-height="480"
+     id="namedview12341"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="2.904401"
+     inkscape:cx="28.754104"
+     inkscape:cy="28.754135"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg12339" />
+  <defs
+     id="defs12333">
+    <style
+       id="style12331">
+      .cls-1 {
+        fill: #fae400;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        stroke: #fff;
+      }
+    </style>
+  </defs>
+  <g
+     id="Group_1982"
+     data-name="Group 1982"
+     transform="translate(-11.873395,-11.873867)">
+    <g
+       id="Group_759"
+       data-name="Group 759">
+      <rect
+         id="Rectangle_596"
+         data-name="Rectangle 596"
+         class="cls-1"
+         width="57.456001"
+         height="57.456001"
+         rx="28.728001"
+         transform="rotate(-45,49.042334,20.314)"
+         x="0"
+         y="0"
+         style="fill:#fae400" />
+    </g>
+    <path
+       id="play-button_17_"
+       data-name="play-button (17)"
+       class="cls-2"
+       d="M 21.257,10.4 6.308,0.091 A 0.516,0.516 0 0 0 5.5,0.515 v 20.619 a 0.515,0.515 0 0 0 0.808,0.424 l 14.949,-10.31 a 0.515,0.515 0 0 0 0,-0.848 z"
+       transform="translate(29.406,29.822)"
+       inkscape:connector-curvature="0"
+       style="fill:#ffffff;stroke:#ffffff" />
+  </g>
+</svg>

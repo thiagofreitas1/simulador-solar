@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 139.873 137.519"
+   version="1.1"
+   id="svg4490"
+   sodipodi:docname="icon-agronegocios-dark-blue.svg"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata4494">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview4492"
+     showgrid="false"
+     inkscape:zoom="4.7557066"
+     inkscape:cx="69.936501"
+     inkscape:cy="68.759499"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4490" />
+  <defs
+     id="defs4487">
+    <style
+       id="style4485">
+      .cls-1 {
+        fill: #004ba5;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path
+     id="Agronegocio"
+     class="cls-1"
+     d="M22.172,105.051a2.732,2.732,0,1,1-2.732,2.732,2.731,2.731,0,0,1,2.732-2.732ZM126,24.223H109.922a14.958,14.958,0,0,0-9.56,3.442V19.453A19.476,19.476,0,0,0,80.906,0H62.68a2.732,2.732,0,0,0-2.732,2.731v7.5A19.476,19.476,0,0,0,79.4,29.685H94.9V57.375c-.721-.046-1.445-.072-2.174-.072a33.731,33.731,0,0,0-19.849,6.4,2.732,2.732,0,0,0,3.2,4.431A28.449,28.449,0,0,1,97.035,63.1a2.78,2.78,0,0,0,.36.055,28.552,28.552,0,0,1,20.28,14.321,2.732,2.732,0,1,0,4.779-2.648,34.018,34.018,0,0,0-22.092-16.65V49.345H113.7a15.04,15.04,0,0,0,15.024-15.021V26.954A2.732,2.732,0,0,0,126,24.223Zm-31.1,0H79.4a14.007,14.007,0,0,1-13.992-13.99V5.463H80.906A14.007,14.007,0,0,1,94.9,19.453v4.77Zm28.366,10.1a9.569,9.569,0,0,1-9.56,9.558H100.362V39.244a9.57,9.57,0,0,1,9.56-9.559h13.342v4.638Zm15.7,54.324a10.72,10.72,0,0,0-14.118-5.468l-.041.018-17.849,8.229a2.732,2.732,0,0,0,2.288,4.961l17.828-8.22a5.241,5.241,0,1,1,4.216,9.6L94.759,113.891a21.176,21.176,0,0,1-18.024-.408l-13.371-6.642a26.629,26.629,0,0,0-22.662-.513l-.263.116L30.446,83.814,44.319,77.69a27.609,27.609,0,0,1,20.766-.663L91.973,86.9a4.845,4.845,0,1,1-3.223,9.139L67.958,89.007a2.731,2.731,0,1,0-1.75,5.175L87,101.214a10.308,10.308,0,0,0,6.855-19.441L66.968,71.9a33.05,33.05,0,0,0-24.856.793L28.149,78.856A6.907,6.907,0,0,0,19.572,76.3L1.635,84.162A2.732,2.732,0,0,0,0,86.665v48.122a2.732,2.732,0,0,0,3.964,2.438l34.82-17.587a6.923,6.923,0,0,0,3.8-8.169l.326-.144a21.179,21.179,0,0,1,18.024.41L74.3,118.377a26.625,26.625,0,0,0,22.662.513l36.528-16.125a10.717,10.717,0,0,0,5.47-14.118ZM37.275,113.866a1.447,1.447,0,0,1-.77.807c-.043.019-.086.04-.128.061L5.464,130.347V118.39l8.08-3.968a2.732,2.732,0,1,0-2.408-4.9L5.464,112.3V88.45L21.77,81.305a1.457,1.457,0,0,1,1.922.744l12.85,29.1,0,.008.7,1.594a1.447,1.447,0,0,1,.026,1.115Z"
+     style="fill:#00357b;fill-opacity:1" />
+</svg>

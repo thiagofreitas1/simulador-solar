@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 46 46">
+  <defs>
+    <style>
+      .cls-1, .cls-4 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fff;
+        stroke-width: 2px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_1874" data-name="Group 1874" transform="translate(-719 -4654)">
+    <g id="Ellipse_308" data-name="Ellipse 308" class="cls-1" transform="translate(719 4654)">
+      <circle class="cls-3" cx="23" cy="23" r="23"/>
+      <circle class="cls-4" cx="23" cy="23" r="22"/>
+    </g>
+    <g id="linkedin-logo" transform="translate(733 4665.805)">
+      <path id="LinkedIn" class="cls-2" d="M20.818,21.754v7.7H16.356V22.27c0-1.8-.645-3.035-2.26-3.035a2.442,2.442,0,0,0-2.289,1.632,3.053,3.053,0,0,0-.148,1.088v7.5H7.195s.06-12.162,0-13.423h4.463v1.9c-.009.014-.021.03-.029.043h.029v-.043a4.432,4.432,0,0,1,4.022-2.218C18.617,15.713,20.818,17.631,20.818,21.754ZM2.526,9.558A2.326,2.326,0,1,0,2.466,14.2H2.5a2.327,2.327,0,1,0,.029-4.639ZM.265,29.451H4.727V16.028H.265Z" transform="translate(0 -9.558)"/>
+    </g>
+  </g>
+</svg>

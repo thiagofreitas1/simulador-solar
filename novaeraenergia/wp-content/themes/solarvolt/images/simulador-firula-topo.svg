@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1505.103 1490.41">
+  <defs>
+    <style>
+      .cls-1, .cls-2, .cls-3, .cls-4, .cls-6 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2, .cls-3, .cls-4 {
+        stroke: #fff;
+      }
+
+      .cls-1 {
+        opacity: 0.25;
+      }
+
+      .cls-2 {
+        opacity: 0.202;
+      }
+
+      .cls-3 {
+        opacity: 0.303;
+      }
+
+      .cls-4 {
+        opacity: 0.333;
+      }
+
+      .cls-5 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="Group_1887" data-name="Group 1887" transform="translate(-504.102 827.205)">
+    <g id="Rectangle_1461" data-name="Rectangle 1461" class="cls-1" transform="translate(1146 -827.205) rotate(45)">
+      <rect class="cls-5" width="648" height="648" rx="30"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="647" height="647" rx="29.5"/>
+    </g>
+    <g id="Rectangle_1621" data-name="Rectangle 1621" class="cls-2" transform="translate(1551 -253.205) rotate(45)">
+      <rect class="cls-5" width="648" height="648" rx="30"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="647" height="647" rx="29.5"/>
+    </g>
+    <g id="Rectangle_1619" data-name="Rectangle 1619" class="cls-3" transform="translate(893.009 -105.6) rotate(45)">
+      <rect class="cls-5" width="212" height="212" rx="30"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="211" height="211" rx="29.5"/>
+    </g>
+    <g id="Rectangle_1620" data-name="Rectangle 1620" class="cls-4" transform="translate(654.009 -229.6) rotate(45)">
+      <rect class="cls-5" width="212" height="212" rx="30"/>
+      <rect class="cls-6" x="0.5" y="0.5" width="211" height="211" rx="29.5"/>
+    </g>
+  </g>
+</svg>

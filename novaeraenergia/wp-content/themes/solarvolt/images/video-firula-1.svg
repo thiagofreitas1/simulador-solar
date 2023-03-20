@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="0 0 440.51904 440.51905"
+   version="1.1"
+   id="svg5630"
+   sodipodi:docname="video-firula-1.svg"
+   width="440.51904"
+   height="440.51904"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata5634">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="837"
+     id="namedview5632"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.48977695"
+     inkscape:cx="84.484717"
+     inkscape:cy="220.25852"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg5630" />
+  <defs
+     id="defs5620">
+    <style
+       id="style5618">
+      .cls-1, .cls-3 {
+        fill: none;
+      }
+
+      .cls-1 {
+        stroke: #fae400;
+      }
+
+      .cls-2 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g
+     id="Group_1159"
+     data-name="Group 1159"
+     transform="translate(-20.665196,-20.665484)">
+    <g
+       id="Group_1158"
+       data-name="Group 1158">
+      <g
+         id="Group_1157"
+         data-name="Group 1157">
+        <g
+           id="Rectangle_1224"
+           data-name="Rectangle 1224"
+           class="cls-1"
+           transform="rotate(-45,290.8222,120.4625)"
+           style="fill:none;stroke:#fae400">
+          <rect
+             class="cls-2"
+             width="340.71899"
+             height="340.71899"
+             rx="50"
+             id="rect5622"
+             x="0"
+             y="0"
+             style="stroke:none" />
+          <rect
+             class="cls-3"
+             x="0.5"
+             y="0.5"
+             width="339.71899"
+             height="339.71899"
+             rx="49.5"
+             id="rect5624"
+             style="fill:none" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
